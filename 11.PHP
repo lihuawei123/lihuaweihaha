@@ -278,7 +278,5 @@
     function checkZip($str) {
         return preg_match("/^[1-9]\d{5}$/", $str);
     }
-
-   
    
 ?>
